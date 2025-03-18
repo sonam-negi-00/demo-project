@@ -78,6 +78,7 @@ For any inquiries, reach out to me on GitHub: [sonam-negi-00](https://github.com
 
 ---
 Enjoy exploring the Farmer Marketplace! 🚀
+![Image](https://github.com/user-attachments/assets/4beb7eff-e87a-4c81-a6f5-f4308a7a478c)
 
 
 
