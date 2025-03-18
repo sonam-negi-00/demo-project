@@ -41,14 +41,24 @@ Here’s a simple HTML & CSS snippet from the project:
 </html>
 ```
 🌟 Kissan Marketplace — Key Features 🌟
-🌐 Multi-Page Structure
-📢 Dynamic Banner Slider
-🔐 Sign-In System
-🛒 Add to Cart Functionality
-📦 Product Display
+#🌐 Multi-Page Structure
+#📢 Dynamic Banner Slider
+#🔐 Sign-In System
+#🛒 Add to Cart Functionality
+#📦 Product Display
 
 Clone the repository:
 ```sh
+git clone https://github.com/sonam-negi-00/demo-project.git
+```
+Navigate to the project folder:
+```sh
+cd demo-project
+```
+open 'index.html' in your browser:
+```
+open index.html
+```
 
 
 
