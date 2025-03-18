@@ -35,13 +35,13 @@ Here’s a simple HTML & CSS snippet from the project:
             background-color: #27ae60;
         }
     </style>
-</head>
+</head>-->
 <body>
     <h1>Welcome to Farmer Marketplace 🚜</h1>
     <button class="btn">Explore Now</button>
 </body>
 </html>
--->
+
 
 
 ## 🌟 Key Features
