@@ -4,8 +4,6 @@
 Farmer Marketplace is a platform that connects farmers directly with consumers, providing a space to buy and sell fresh veggies, seeds, and farmer tools. The platform focuses on simplicity, responsiveness, and an intuitive UI to make transactions smooth and hassle-free.
 
 ## 🎨 Demo Preview (HTML & CSS)
-Here’s a simple HTML & CSS snippet from the project:
-
 <!--
 <!DOCTYPE html>
 <html lang="en">
