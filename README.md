@@ -6,7 +6,7 @@ Farmer Marketplace is a platform that connects farmers directly with consumers, 
 ## 🎨 Demo Preview (HTML & CSS)
 Here’s a simple HTML & CSS snippet from the project:
 
-```html
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,7 +41,8 @@ Here’s a simple HTML & CSS snippet from the project:
     <button class="btn">Explore Now</button>
 </body>
 </html>
-```
+-->
+
 
 ## 🌟 Key Features
 - 🌐 Multi-Page Structure  
