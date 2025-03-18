@@ -4,7 +4,7 @@ Farmer Marketplace is a platform that connects farmers directly with consumers, 
 
 🎨 Demo Preview (HTML & CSS)
 Here’s a simple HTML & CSS snippet from the project:
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,4 +39,16 @@ Here’s a simple HTML & CSS snippet from the project:
     <button class="btn">Explore Now</button>
 </body>
 </html>
-'''
+```
+🌟 Kissan Marketplace — Key Features 🌟
+🌐 Multi-Page Structure
+📢 Dynamic Banner Slider
+🔐 Sign-In System
+🛒 Add to Cart Functionality
+📦 Product Display
+
+Clone the repository:
+```sh
+
+
+
